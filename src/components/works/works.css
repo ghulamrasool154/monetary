@@ -1,0 +1,26 @@
+#work {
+    padding: 50px 0;
+}
+
+#work .box-content .imgsection {
+    height: 200px;
+    margin-bottom: 30px;
+
+}
+
+/* #work .box-content .imgsection img {
+    width: 100%;
+} */
+
+.content h3 {
+    font-size: 67px;
+    color: #000000;
+    text-align: center;
+    font-weight: 600;
+}
+
+h2.worktitle {
+    font-weight: 700;
+    font-size: 60px;
+    text-align: center;
+}

@@ -1,0 +1,22 @@
+section#hero {
+    background-image: url(/src/assets/images/monetary-independence-v2.jpg);
+    padding: 120px 0;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+section#hero h1 {
+    font-size: 100px;
+    color: #FFFFFF;
+    letter-spacing: 3px;
+    text-align: center;
+    font-weight: 500;
+}
+
+@media screen and (max-width : 600px) {
+
+    section#hero h1 {
+        font-size: 50px;
+    }
+}

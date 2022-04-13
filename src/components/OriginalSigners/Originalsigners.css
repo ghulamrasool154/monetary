@@ -1,0 +1,20 @@
+.namesigner {
+    font-size: 18px;
+    font-weight: 500;
+    color: #333;
+    font-family: 'Lora', serif;
+
+}
+
+a.twitericon {
+    color: #b2b2b2;
+}
+
+.orginlsginer {
+    color: #333333;
+    font-family: 'Tangerine', handwriting;
+    font-weight: 800;
+    font-size: 60px;
+    color: #000000 !important;
+    text-align: center;
+}

@@ -1,0 +1,59 @@
+#Preamble {
+    background-color: rgba(51, 135, 166, 0.27);
+    padding: 50px 0;
+}
+
+#Preamble h1 {
+    color: #333333;
+    font-weight: 700;
+    font-size: 60px;
+}
+
+#Preamble p {
+    color: black;
+    font-size: 20px;
+}
+
+/* Monetary */
+
+
+#Monetary h1 {
+    color: black;
+    font-size: 60px;
+    font-weight: bold;
+}
+
+/* bgimg */
+section#bgimg {
+    background-image: url(/src/assets/images/declaration-monetary-independence-v2.jpg);
+    height: 555px;
+    min-height: 465px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+.montery {
+    color: #333333;
+    font-family: 'Tangerine', handwriting;
+    font-weight: 800;
+    font-size: 60px;
+    color: #000000 !important;
+    text-align: center;
+}
+
+#Monetary p,
+li,
+strong {
+    font-family: 'Lora', serif;
+    font-size: 20px;
+}
+
+#Monetary strong {
+    font-weight: 700;
+}
+
+#Monetary p {
+    font-weight: 500;
+}
